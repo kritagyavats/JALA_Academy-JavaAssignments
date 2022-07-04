@@ -17,7 +17,7 @@ public class Ques05 {
 
         //GLOBAL VARIABLE
         System.out.println("Instance variable N: "+ obj.N);
-
+        
         obj.localVariable();
     }
 }
